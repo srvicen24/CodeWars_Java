@@ -1,4 +1,4 @@
-package CodeWars.src.prime;
+package src.six_kyu.prime;
 
 public class Prime {
     public static boolean isPrime(int num) {
@@ -13,8 +13,8 @@ public class Prime {
         if (num % 2 == 0 || num % 3 == 0) {
             return false;
         }
-        
-      int sqrt = (int) Math.sqrt(num);
+
+        int sqrt = (int) Math.sqrt(num);
         for (int i = 5; i <= sqrt; i += 6) {
             if (num % i == 0 || num % (i + 2) == 0) {
                 return false;

@@ -1,4 +1,4 @@
-package CodeWars.src.splitStrings;
+package src.six_kyu.prime;
 
 public class SplitStrings {
 
