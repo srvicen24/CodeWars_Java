@@ -1,4 +1,4 @@
-package src.six_kyu.prime;
+package es.srvicen24.six_kyu.prime;
 
 public class Prime {
     public static boolean isPrime(int num) {
@@ -27,4 +27,3 @@ public class Prime {
     // Complexity: O(sqrt(n))
     // Space: O(1)
 }
-

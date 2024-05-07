@@ -1,4 +1,4 @@
-package src.six_kyu.prime;
+package es.srvicen24.six_kyu.split_strings;
 
 public class SplitStrings {
 

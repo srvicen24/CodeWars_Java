@@ -39,6 +39,8 @@
                 <version>3.8.1</version>
                 <configuration>
                     <release>17</release>
+                    <sourceDirectory>${project.basedir}/src/main/java</sourceDirectory>
+                    <testSourceDirectory>${project.basedir}/src/test/java</testSourceDirectory>
                 </configuration>
             </plugin>
         </plugins>
