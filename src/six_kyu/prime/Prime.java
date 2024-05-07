@@ -23,4 +23,8 @@ public class Prime {
 
         return true;
     }
+
+    // Complexity: O(sqrt(n))
+    // Space: O(1)
 }
+
