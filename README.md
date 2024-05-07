@@ -13,3 +13,10 @@ You can clone this repository to have local access to the solutions. If you have
 ## Contributions
 
 Contributions are welcome. If you have a better solution to a problem, please open a pull request.
+
+## Maven
+
+This project uses Maven for dependency management and project building. You can build the project and run the tests using the following command in the terminal:
+
+```sh
+mvn clean install
